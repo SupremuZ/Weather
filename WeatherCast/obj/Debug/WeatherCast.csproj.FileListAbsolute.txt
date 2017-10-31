@@ -1,0 +1,17 @@
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\bin\Debug\WeatherCast.exe.config
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\bin\Debug\WeatherCast.exe
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\bin\Debug\WeatherCast.pdb
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\bin\Debug\RestSharp.dll
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\bin\Debug\RestSharp.xml
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\WeatherCast.csprojResolveAssemblyReference.cache
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\MainWindow.baml
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\MainWindow.g.cs
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\App.g.cs
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\WeatherCast_MarkupCompile.cache
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\WeatherCast.g.resources
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\WeatherCast.Properties.Resources.resources
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\WeatherCast.csproj.GenerateResource.Cache
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\WeatherCast.exe
+C:\Users\SupremuZ\Desktop\axbit\WeatherCast\WeatherCast\obj\Debug\WeatherCast.pdb
